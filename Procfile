@@ -1,1 +1,1 @@
-web: gunicorn gettingstarted.wsgi --log-file -
+workers: python bot.py
