@@ -46,3 +46,4 @@ def lalala(message):
  
 # RUN
 bot.polling(none_stop=True)
+Bot.run('1140907948:AAHv4G8wJFV7jJBf0lPsiHx7w_xFnOdDjVw')
