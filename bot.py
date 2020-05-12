@@ -2,7 +2,6 @@ import telebot
 bot = telebot.TeleBot('1140907948:AAHv4G8wJFV7jJBf0lPsiHx7w_xFnOdDjVw');
 import random
 from telebot import types
-import discord
 
  
  
@@ -48,4 +47,3 @@ def lalala(message):
  
 # RUN
 bot.polling(none_stop=True)
-Bot.run('1140907948:AAHv4G8wJFV7jJBf0lPsiHx7w_xFnOdDjVw')
