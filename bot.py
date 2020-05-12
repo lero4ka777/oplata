@@ -2,6 +2,8 @@ import telebot
 bot = telebot.TeleBot('1140907948:AAHv4G8wJFV7jJBf0lPsiHx7w_xFnOdDjVw');
 import random
 from telebot import types
+import discord
+
  
  
 @bot.message_handler(commands=['start'])
