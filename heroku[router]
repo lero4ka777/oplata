@@ -1,0 +1,2 @@
+at=error code=H14 desc="python Bot.py" method=GET path="/favicon.ico" host=oplata.herokuapp.com request_id=171200b1-d25b-492e-b75c-3038383e01fe fwd="46.165.250.72" dyno= connect= service= status=503 bytes= protocol=https
+
